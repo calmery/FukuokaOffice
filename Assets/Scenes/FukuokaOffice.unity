@@ -1152,6 +1152,42 @@ Transform:
   m_PrefabParentObject: {fileID: 4647119356671550, guid: 963815a73d4684e52a29ae79f9c8b8f9,
     type: 2}
   m_PrefabInternal: {fileID: 594257073}
+--- !u!1 &604166660 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 161904, guid: 9cb1e183d39ba432db5c583c4548819c, type: 2}
+  m_PrefabInternal: {fileID: 1620223904}
+--- !u!114 &604166661
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 604166660}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1285343726, guid: f78c4655b33cb5741983dc02e08899cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isRoomPlayerMods: 1
+  playerMods:
+  - mName: jump
+    mProperties:
+    - name: jumpPower
+      intValue: 0
+      floatValue: 3
+      stringValue: 
+      boolValue: 0
+      gameObjectValue: {fileID: 0}
+      keyCodeValue: 0
+      animationController: {fileID: 0}
+      broadcastValue: 0
+      onDeathActionValue: 0
+      type:
+        m_Name: Single
+        m_AssemblyQualifiedName: System.Single, mscorlib, Version=2.0.0.0, Culture=neutral,
+          PublicKeyToken=b77a5c561934e089
+        m_AssemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    mModComponentName: PlayerModComponentJump
+    mAllowNameEdit: 0
 --- !u!1001 &643401447
 Prefab:
   m_ObjectHideFlags: 0

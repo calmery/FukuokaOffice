@@ -1,8 +1,12 @@
 fileFormatVersion: 2
-guid: 75c1f5f66c10747488087276d5beefca
+guid: 9443c501f8a6c43b7b9f626d11a06fc2
+labels:
+- Fabric
+- Pattern
+- Carpet
 NativeFormatImporter:
   externalObjects: {}
-  mainObjectFileID: 2100000
+  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

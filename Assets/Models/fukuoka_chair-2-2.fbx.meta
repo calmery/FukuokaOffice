@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 22f00d161836c4f9ca69602068500c98
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MeshBody1
+    100004: MeshBody10
+    100006: MeshBody11
+    100008: MeshBody12
+    100010: MeshBody13
+    100012: MeshBody14
+    100014: MeshBody15
+    100016: MeshBody16
+    100018: MeshBody17
+    100020: MeshBody18
+    100022: MeshBody19
+    100024: MeshBody2
+    100026: MeshBody20
+    100028: MeshBody21
+    100030: MeshBody22
+    100032: MeshBody23
+    100034: MeshBody24
+    100036: MeshBody25
+    100038: MeshBody3
+    100040: MeshBody4
+    100042: MeshBody5
+    100044: MeshBody6
+    100046: MeshBody7
+    100048: MeshBody8
+    100050: MeshBody9
+    400000: //RootNode
+    400002: MeshBody1
+    400004: MeshBody10
+    400006: MeshBody11
+    400008: MeshBody12
+    400010: MeshBody13
+    400012: MeshBody14
+    400014: MeshBody15
+    400016: MeshBody16
+    400018: MeshBody17
+    400020: MeshBody18
+    400022: MeshBody19
+    400024: MeshBody2
+    400026: MeshBody20
+    400028: MeshBody21
+    400030: MeshBody22
+    400032: MeshBody23
+    400034: MeshBody24
+    400036: MeshBody25
+    400038: MeshBody3
+    400040: MeshBody4
+    400042: MeshBody5
+    400044: MeshBody6
+    400046: MeshBody7
+    400048: MeshBody8
+    400050: MeshBody9
+    2100000: Steel - Satin
+    2100002: Plastic - Matte (Black)
+    2100004: Fabric (Denim)
+    2300000: MeshBody1
+    2300002: MeshBody10
+    2300004: MeshBody11
+    2300006: MeshBody12
+    2300008: MeshBody13
+    2300010: MeshBody14
+    2300012: MeshBody15
+    2300014: MeshBody16
+    2300016: MeshBody17
+    2300018: MeshBody18
+    2300020: MeshBody19
+    2300022: MeshBody2
+    2300024: MeshBody20
+    2300026: MeshBody21
+    2300028: MeshBody22
+    2300030: MeshBody23
+    2300032: MeshBody24
+    2300034: MeshBody25
+    2300036: MeshBody3
+    2300038: MeshBody4
+    2300040: MeshBody5
+    2300042: MeshBody6
+    2300044: MeshBody7
+    2300046: MeshBody8
+    2300048: MeshBody9
+    3300000: MeshBody1
+    3300002: MeshBody10
+    3300004: MeshBody11
+    3300006: MeshBody12
+    3300008: MeshBody13
+    3300010: MeshBody14
+    3300012: MeshBody15
+    3300014: MeshBody16
+    3300016: MeshBody17
+    3300018: MeshBody18
+    3300020: MeshBody19
+    3300022: MeshBody2
+    3300024: MeshBody20
+    3300026: MeshBody21
+    3300028: MeshBody22
+    3300030: MeshBody23
+    3300032: MeshBody24
+    3300034: MeshBody25
+    3300036: MeshBody3
+    3300038: MeshBody4
+    3300040: MeshBody5
+    3300042: MeshBody6
+    3300044: MeshBody7
+    3300046: MeshBody8
+    3300048: MeshBody9
+    4300000: MeshBody1
+    4300002: MeshBody2
+    4300004: MeshBody3
+    4300006: MeshBody4
+    4300008: MeshBody5
+    4300010: MeshBody6
+    4300012: MeshBody7
+    4300014: MeshBody8
+    4300016: MeshBody9
+    4300018: MeshBody10
+    4300020: MeshBody11
+    4300022: MeshBody12
+    4300024: MeshBody13
+    4300026: MeshBody14
+    4300028: MeshBody15
+    4300030: MeshBody16
+    4300032: MeshBody17
+    4300034: MeshBody18
+    4300036: MeshBody19
+    4300038: MeshBody20
+    4300040: MeshBody21
+    4300042: MeshBody22
+    4300044: MeshBody23
+    4300046: MeshBody24
+    4300048: MeshBody25
+    6400000: MeshBody1
+    6400002: MeshBody10
+    6400004: MeshBody11
+    6400006: MeshBody12
+    6400008: MeshBody13
+    6400010: MeshBody14
+    6400012: MeshBody15
+    6400014: MeshBody16
+    6400016: MeshBody17
+    6400018: MeshBody18
+    6400020: MeshBody19
+    6400022: MeshBody2
+    6400024: MeshBody20
+    6400026: MeshBody21
+    6400028: MeshBody22
+    6400030: MeshBody23
+    6400032: MeshBody24
+    6400034: MeshBody25
+    6400036: MeshBody3
+    6400038: MeshBody4
+    6400040: MeshBody5
+    6400042: MeshBody6
+    6400044: MeshBody7
+    6400046: MeshBody8
+    6400048: MeshBody9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric (Denim)
+    second: {fileID: 2100000, guid: 52217ecf16ae84bb3adf3cf957b34ab8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic - Matte (Black)
+    second: {fileID: 2100000, guid: f55c13c1dd9d64d55b9758652b786c9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel - Satin
+    second: {fileID: 2100000, guid: 777cf282f26ac4cccac13cc0128e2b68, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

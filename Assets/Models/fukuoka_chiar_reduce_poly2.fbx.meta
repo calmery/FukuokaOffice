@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: a56f75458bc2b40338bf7132afc4d51b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: " \u30B9\u30A4\u30FC\u30D7 \u30D6\u30EC\u30F3\u30C9 [60910]"
+    100002: " \u30B9\u30A4\u30FC\u30D7 \u30D6\u30EC\u30F3\u30C9 [62075]"
+    100004: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [58531]"
+    100006: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [58532]"
+    100008: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [58534]"
+    100010: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [63029]"
+    100012: " \u56DE\u8EE2 [3844]"
+    100014: " \u56DE\u8EE2 [3862]"
+    100016: " \u62BC\u3057\u51FA\u3057 [3854]"
+    100018: " \u62BC\u3057\u51FA\u3057 [3858]"
+    100020: " \u62BC\u3057\u51FA\u3057 [4022]"
+    100022: " \u62BC\u3057\u51FA\u3057 [58537]"
+    100024: " \u62BC\u3057\u51FA\u3057 [8186]"
+    100026: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [27878]"
+    100028: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [60462]"
+    100030: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [62911]"
+    100032: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [68141]"
+    100034: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [68309]"
+    100036: "3D \u30D3\u30E5\u30FC: {3D}"
+    100038: //RootNode
+    100040: "\u30AD\u30E3\u30B9\u30BF\u30FC \u30AD\u30E3\u30B9\u30BF\u30FC [6025]"
+    100042: "\u811A \u811A [5074]"
+    100044: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23726]"
+    100046: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23726]_[23729]"
+    100048: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23727]"
+    100050: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23727]_[23731]"
+    100052: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23727]_[23732]"
+    100054: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23758]"
+    400000: " \u30B9\u30A4\u30FC\u30D7 \u30D6\u30EC\u30F3\u30C9 [60910]"
+    400002: " \u30B9\u30A4\u30FC\u30D7 \u30D6\u30EC\u30F3\u30C9 [62075]"
+    400004: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [58531]"
+    400006: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [58532]"
+    400008: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [58534]"
+    400010: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [63029]"
+    400012: " \u56DE\u8EE2 [3844]"
+    400014: " \u56DE\u8EE2 [3862]"
+    400016: " \u62BC\u3057\u51FA\u3057 [3854]"
+    400018: " \u62BC\u3057\u51FA\u3057 [3858]"
+    400020: " \u62BC\u3057\u51FA\u3057 [4022]"
+    400022: " \u62BC\u3057\u51FA\u3057 [58537]"
+    400024: " \u62BC\u3057\u51FA\u3057 [8186]"
+    400026: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [27878]"
+    400028: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [60462]"
+    400030: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [62911]"
+    400032: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [68141]"
+    400034: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [68309]"
+    400036: "3D \u30D3\u30E5\u30FC: {3D}"
+    400038: //RootNode
+    400040: "\u30AD\u30E3\u30B9\u30BF\u30FC \u30AD\u30E3\u30B9\u30BF\u30FC [6025]"
+    400042: "\u811A \u811A [5074]"
+    400044: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23726]"
+    400046: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23726]_[23729]"
+    400048: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23727]"
+    400050: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23727]_[23731]"
+    400052: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23727]_[23732]"
+    400054: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23758]"
+    2000000: "3D \u30D3\u30E5\u30FC: {3D}"
+    2100000: No Name
+    2300000: " \u30B9\u30A4\u30FC\u30D7 \u30D6\u30EC\u30F3\u30C9 [60910]"
+    2300002: " \u30B9\u30A4\u30FC\u30D7 \u30D6\u30EC\u30F3\u30C9 [62075]"
+    2300004: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [58531]"
+    2300006: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [58532]"
+    2300008: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [58534]"
+    2300010: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [63029]"
+    2300012: " \u56DE\u8EE2 [3844]"
+    2300014: " \u56DE\u8EE2 [3862]"
+    2300016: " \u62BC\u3057\u51FA\u3057 [3854]"
+    2300018: " \u62BC\u3057\u51FA\u3057 [3858]"
+    2300020: " \u62BC\u3057\u51FA\u3057 [4022]"
+    2300022: " \u62BC\u3057\u51FA\u3057 [58537]"
+    2300024: " \u62BC\u3057\u51FA\u3057 [8186]"
+    2300026: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [27878]"
+    2300028: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [60462]"
+    2300030: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [62911]"
+    2300032: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [68141]"
+    2300034: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [68309]"
+    2300036: "\u30AD\u30E3\u30B9\u30BF\u30FC \u30AD\u30E3\u30B9\u30BF\u30FC [6025]"
+    2300038: "\u811A \u811A [5074]"
+    2300040: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23726]"
+    2300042: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23726]_[23729]"
+    2300044: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23727]_[23731]"
+    2300046: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23727]_[23732]"
+    2300048: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23758]"
+    3300000: " \u30B9\u30A4\u30FC\u30D7 \u30D6\u30EC\u30F3\u30C9 [60910]"
+    3300002: " \u30B9\u30A4\u30FC\u30D7 \u30D6\u30EC\u30F3\u30C9 [62075]"
+    3300004: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [58531]"
+    3300006: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [58532]"
+    3300008: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [58534]"
+    3300010: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [63029]"
+    3300012: " \u56DE\u8EE2 [3844]"
+    3300014: " \u56DE\u8EE2 [3862]"
+    3300016: " \u62BC\u3057\u51FA\u3057 [3854]"
+    3300018: " \u62BC\u3057\u51FA\u3057 [3858]"
+    3300020: " \u62BC\u3057\u51FA\u3057 [4022]"
+    3300022: " \u62BC\u3057\u51FA\u3057 [58537]"
+    3300024: " \u62BC\u3057\u51FA\u3057 [8186]"
+    3300026: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [27878]"
+    3300028: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [60462]"
+    3300030: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [62911]"
+    3300032: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [68141]"
+    3300034: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [68309]"
+    3300036: "\u30AD\u30E3\u30B9\u30BF\u30FC \u30AD\u30E3\u30B9\u30BF\u30FC [6025]"
+    3300038: "\u811A \u811A [5074]"
+    3300040: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23726]"
+    3300042: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23726]_[23729]"
+    3300044: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23727]_[23731]"
+    3300046: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23727]_[23732]"
+    3300048: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23758]"
+    4300000: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [68309]"
+    4300002: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [68141]"
+    4300004: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [63029]"
+    4300006: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [62911]"
+    4300008: " \u30B9\u30A4\u30FC\u30D7 \u30D6\u30EC\u30F3\u30C9 [62075]"
+    4300010: " \u30B9\u30A4\u30FC\u30D7 \u30D6\u30EC\u30F3\u30C9 [60910]"
+    4300012: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [60462]"
+    4300014: " \u62BC\u3057\u51FA\u3057 [58537]"
+    4300016: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [58534]"
+    4300018: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [58532]"
+    4300020: " \u30D5\u30EA\u30FC \u30D5\u30A9\u30FC\u30E0\u8981\u7D20 [58531]"
+    4300022: " \u7D50\u5408\u3055\u308C\u305F\u30BD\u30EA\u30C3\u30C9 \u30B8\u30AA\u30E1\u30C8\u30EA
+      [27878]"
+    4300024: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23758]"
+    4300026: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23727]_[23732]"
+    4300028: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23727]_[23731]"
+    4300030: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23726]"
+    4300032: "\u8AAD\u307F\u8FBC\u307F\u8A18\u53F7 \u4F4D\u7F6E  <\u975E\u5171\u6709>
+      [23726]_[23729]"
+    4300034: " \u62BC\u3057\u51FA\u3057 [8186]"
+    4300036: "\u30AD\u30E3\u30B9\u30BF\u30FC \u30AD\u30E3\u30B9\u30BF\u30FC [6025]"
+    4300038: "\u811A \u811A [5074]"
+    4300040: " \u62BC\u3057\u51FA\u3057 [4022]"
+    4300042: " \u56DE\u8EE2 [3862]"
+    4300044: " \u62BC\u3057\u51FA\u3057 [3858]"
+    4300046: " \u62BC\u3057\u51FA\u3057 [3854]"
+    4300048: " \u56DE\u8EE2 [3844]"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

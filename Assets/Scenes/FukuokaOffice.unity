@@ -5784,6 +5784,7 @@ Transform:
   - {fileID: 462066992}
   - {fileID: 1847130424}
   - {fileID: 894245579}
+  - {fileID: 1921565942}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -6362,6 +6363,57 @@ Transform:
   m_PrefabParentObject: {fileID: 4647119356671550, guid: 963815a73d4684e52a29ae79f9c8b8f9,
     type: 2}
   m_PrefabInternal: {fileID: 1908614601}
+--- !u!1001 &1921565941
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1766788060}
+    m_Modifications:
+    - target: {fileID: 4510518868749364, guid: 3a7a45b23ada549f7b779fb77cbaefb8, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 6.4745
+      objectReference: {fileID: 0}
+    - target: {fileID: 4510518868749364, guid: 3a7a45b23ada549f7b779fb77cbaefb8, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4510518868749364, guid: 3a7a45b23ada549f7b779fb77cbaefb8, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 6.145
+      objectReference: {fileID: 0}
+    - target: {fileID: 4510518868749364, guid: 3a7a45b23ada549f7b779fb77cbaefb8, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4510518868749364, guid: 3a7a45b23ada549f7b779fb77cbaefb8, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4510518868749364, guid: 3a7a45b23ada549f7b779fb77cbaefb8, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4510518868749364, guid: 3a7a45b23ada549f7b779fb77cbaefb8, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4510518868749364, guid: 3a7a45b23ada549f7b779fb77cbaefb8, type: 2}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 1110128239090162, guid: 3a7a45b23ada549f7b779fb77cbaefb8, type: 2}
+      propertyPath: m_Name
+      value: Fukuoka Intern Poster
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 3a7a45b23ada549f7b779fb77cbaefb8, type: 2}
+  m_IsPrefabParent: 0
+--- !u!4 &1921565942 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 4510518868749364, guid: 3a7a45b23ada549f7b779fb77cbaefb8,
+    type: 2}
+  m_PrefabInternal: {fileID: 1921565941}
 --- !u!1 &1933297817
 GameObject:
   m_ObjectHideFlags: 0

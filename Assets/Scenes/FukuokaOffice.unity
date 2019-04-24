@@ -138,7 +138,6 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 990564912}
   - {fileID: 2147046682}
   - {fileID: 509759958}
   - {fileID: 594257074}
@@ -1363,7 +1362,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4647119356671550, guid: 963815a73d4684e52a29ae79f9c8b8f9, type: 2}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1042100770468004, guid: 963815a73d4684e52a29ae79f9c8b8f9, type: 2}
       propertyPath: m_Name
@@ -1468,8 +1467,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 578738850}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.2, y: 3.6345, z: 14.8}
-  m_LocalScale: {x: 4.255, y: 0.23125, z: 0.4625}
+  m_LocalPosition: {x: 2.78, y: 3.625, z: 14.1}
+  m_LocalScale: {x: 7.6, y: 0.25, z: 0.475}
   m_Children: []
   m_Father: {fileID: 1766788060}
   m_RootOrder: 8
@@ -1511,7 +1510,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4647119356671550, guid: 963815a73d4684e52a29ae79f9c8b8f9, type: 2}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1042100770468004, guid: 963815a73d4684e52a29ae79f9c8b8f9, type: 2}
       propertyPath: m_Name
@@ -2311,70 +2310,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &990564911
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 3880249}
-    m_Modifications:
-    - target: {fileID: 4647119356671550, guid: 963815a73d4684e52a29ae79f9c8b8f9, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4647119356671550, guid: 963815a73d4684e52a29ae79f9c8b8f9, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4647119356671550, guid: 963815a73d4684e52a29ae79f9c8b8f9, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4647119356671550, guid: 963815a73d4684e52a29ae79f9c8b8f9, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4647119356671550, guid: 963815a73d4684e52a29ae79f9c8b8f9, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4647119356671550, guid: 963815a73d4684e52a29ae79f9c8b8f9, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4647119356671550, guid: 963815a73d4684e52a29ae79f9c8b8f9, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4647119356671550, guid: 963815a73d4684e52a29ae79f9c8b8f9, type: 2}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1042100770468004, guid: 963815a73d4684e52a29ae79f9c8b8f9, type: 2}
-      propertyPath: m_Name
-      value: Floor Panel 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4647119356671550, guid: 963815a73d4684e52a29ae79f9c8b8f9, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 0.185
-      objectReference: {fileID: 0}
-    - target: {fileID: 4647119356671550, guid: 963815a73d4684e52a29ae79f9c8b8f9, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 0.185
-      objectReference: {fileID: 0}
-    - target: {fileID: 23940338660288718, guid: 963815a73d4684e52a29ae79f9c8b8f9,
-        type: 2}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 11047c6e6424b456ea37a0254c7ebd2b, type: 2}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 963815a73d4684e52a29ae79f9c8b8f9, type: 2}
-  m_IsPrefabParent: 0
---- !u!4 &990564912 stripped
-Transform:
-  m_PrefabParentObject: {fileID: 4647119356671550, guid: 963815a73d4684e52a29ae79f9c8b8f9,
-    type: 2}
-  m_PrefabInternal: {fileID: 990564911}
 --- !u!1 &996481856
 GameObject:
   m_ObjectHideFlags: 0
@@ -2580,8 +2515,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1134077104}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.07, y: 3.6345, z: 0}
-  m_LocalScale: {x: 4.81, y: 0.23125, z: 0.4625}
+  m_LocalPosition: {x: 4.07, y: 3.6345, z: 0.1745}
+  m_LocalScale: {x: 4.81, y: 0.25, z: 0.5}
   m_Children: []
   m_Father: {fileID: 1766788060}
   m_RootOrder: 6
@@ -4340,7 +4275,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4647119356671550, guid: 963815a73d4684e52a29ae79f9c8b8f9, type: 2}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1042100770468004, guid: 963815a73d4684e52a29ae79f9c8b8f9, type: 2}
       propertyPath: m_Name

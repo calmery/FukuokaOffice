@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 95f90d09516704cdf912a7d0f15b2d67
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body10
+    100002: Body4
+    100004: Body5
+    100006: Body6
+    100008: Body7
+    100010: Body8
+    100012: Body9
+    100014: //RootNode
+    400000: Body10
+    400002: Body4
+    400004: Body5
+    400006: Body6
+    400008: Body7
+    400010: Body8
+    400012: Body9
+    400014: //RootNode
+    2100000: Stainless Steel - Satin
+    2100002: Oak - Glossy
+    2300000: Body10
+    2300002: Body4
+    2300004: Body5
+    2300006: Body6
+    2300008: Body7
+    2300010: Body8
+    2300012: Body9
+    3300000: Body10
+    3300002: Body4
+    3300004: Body5
+    3300006: Body6
+    3300008: Body7
+    3300010: Body8
+    3300012: Body9
+    4300000: Body4
+    4300002: Body5
+    4300004: Body6
+    4300006: Body7
+    4300008: Body8
+    4300010: Body9
+    4300012: Body10
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oak - Glossy
+    second: {fileID: 2100000, guid: 3e2b791d8c1e941a6a7c21d69263555f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stainless Steel - Satin
+    second: {fileID: 2100000, guid: 2a599310b81404eb1b117f2a5a6ff91c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
